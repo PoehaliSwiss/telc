@@ -4,3 +4,5 @@ structure:
     items:
       - title: Структура экзамена
         path: /lesenverstehen-konnektoren/struktura-ekzam-na
+      - title: Лайфхаки
+        path: /lesenverstehen-konnektoren/lajfhaki
