@@ -21,4 +21,6 @@ structure:
       - title: Урок 6
         path: /lesenverstehen-konnektoren/urok-6
   - title: Углубление и Нюансы (Vertiefung)
-    items: []
+    items:
+      - title: Описание блока
+        path: /uglubl-ni-i-nyuansy-vertiefung/opisani-bloka
