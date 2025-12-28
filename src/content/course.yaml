@@ -66,3 +66,5 @@ structure:
     items:
       - title: Описание
         path: /blok-5/opisani
+      - title: Урок 22
+        path: /blok-5/urok-22
