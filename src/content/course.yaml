@@ -46,3 +46,5 @@ structure:
     items:
       - title: Описание
         path: /blok-3/opisani
+      - title: Урок 16
+        path: /blok-3/urok-16
