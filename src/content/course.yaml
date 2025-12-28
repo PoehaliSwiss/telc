@@ -53,4 +53,6 @@ structure:
       - title: Урок 18
         path: /blok-3/urok-18
   - title: Блок 4
-    items: []
+    items:
+      - title: Описание
+        path: /blok-4/opisani
