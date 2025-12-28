@@ -62,3 +62,5 @@ structure:
         path: /blok-4/urok-20
       - title: Урок 21
         path: /blok-4/urok-21
+  - title: Блок 5
+    items: []
