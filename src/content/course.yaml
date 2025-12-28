@@ -43,4 +43,6 @@ structure:
       - title: Урок 15
         path: /uglubl-ni-i-nyuansy-vertiefung/urok-15
   - title: Блок 3
-    items: []
+    items:
+      - title: Описание
+        path: /blok-3/opisani
